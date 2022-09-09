@@ -147,7 +147,7 @@ console.log(comidas) // ['Pizza', 'Hamburguesa', 'Pastas', 'Lasagna', 'Sandwich'
 Elimina el último elemento del arreglo disminuyendo en 1 su longitud. Devuelve el elemento eliminado:
 
 ```javascript
-var comidas = ['Pizza', 'Hamburguesa', 'Pastas', 'Lasagna'];
+var comidas = ['Pizza', 'Hamburguesa', 'Pastas', 'Lasagna', 'Sandwich'];
 
 comidas.pop();
 
@@ -170,7 +170,7 @@ console.log(comidas) // ['Hot Dog', 'Pizza', 'Hamburguesa', 'Pastas', 'Lasagna']
 Eliminará el primer elemento del arreglo:
 
 ```javascript
-var comidas = ['Pizza', 'Hamburguesa', 'Pastas', 'Lasagna'];
+var comidas = ['Hot Dog', 'Pizza', 'Hamburguesa', 'Pastas', 'Lasagna'];
 
 comidas.shift();
 
