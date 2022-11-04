@@ -65,6 +65,12 @@ function filter(array) {
   }
   return nuevoArray
 }
+// var nuevoArray2 = array.filder(function(acumulador){
+// return acumulador [0] === 'a';
+// return nuevoArray2
+// })
+
+
 
 // No modificar nada debajo de esta línea
 // --------------------------------
